@@ -301,7 +301,7 @@ sketch_oct9a/
    - [`ESP32Servo`](https://github.com/madhephaestus/ESP32Servo) — управление сервоприводом 360°
    - [`Adafruit ADS1X15`](https://github.com/adafruit/Adafruit_ADS1X15) — АЦП ADS1015 для MGS-GUVA
 3. Открыть `sketch_oct9a/sketch_oct9a.ino`.
-4. Выбрать плату: **ESP32 Dev Module**.
+4. Выбрать плату: **MGBOT IOTIK 32(A/B)**.
 5. Выбрать порт COM.
 6. Нажать **Upload**.
 7. Открыть Serial Monitor (115200) — IP-адрес выведется при старте.
