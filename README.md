@@ -300,7 +300,6 @@ sketch_oct9a/
    - [`Adafruit NeoPixel`](https://github.com/adafruit/Adafruit_NeoPixel) — управление LED-матрицей WS2812
    - [`ESP32Servo`](https://github.com/madhephaestus/ESP32Servo) — управление сервоприводом 360°
    - [`Adafruit ADS1X15`](https://github.com/adafruit/Adafruit_ADS1X15) — АЦП ADS1015 для MGS-GUVA
-   - `Adafruit BMP280 Library` (в проекте используется собственная реализация `Bmp280`, библиотека опциональна)
 3. Открыть `sketch_oct9a/sketch_oct9a.ino`.
 4. Выбрать плату: **ESP32 Dev Module**.
 5. Выбрать порт COM.
