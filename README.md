@@ -315,4 +315,15 @@ sketch_oct9a/
 - Логин: **root**
 - Пароль: **admin**
 - Сменить: `checkAuth()` в `sketch_oct9a/src/WebServer.h`.
+<img width="1114" height="48" alt="image" src="https://github.com/user-attachments/assets/fae4ff1f-18d5-467b-9aa0-eb9450ffa654" />
+<img width="1907" height="918" alt="image" src="https://github.com/user-attachments/assets/317ea76c-5cb7-4735-aae5-c1cbb4fff62c" />
+<img width="1891" height="915" alt="image" src="https://github.com/user-attachments/assets/5ccb05e2-966c-4aea-81ef-7234a098054f" />
+<img width="339" height="446" alt="image" src="https://github.com/user-attachments/assets/c5953fe8-3335-4373-b9ad-349d4b8a6a6e" />
+<img width="362" height="449" alt="image" src="https://github.com/user-attachments/assets/f05bc6e4-5bdb-4798-a7d8-166231c710d5" />
+<img width="344" height="453" alt="image" src="https://github.com/user-attachments/assets/ee9d9682-4d98-4cfa-a376-d968e026244c" />
+<img width="353" height="664" alt="image" src="https://github.com/user-attachments/assets/4cd89984-7a50-41bc-8c66-28e325253bfa" />
+
+
+
+
 
